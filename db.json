@@ -57,12 +57,42 @@
       "link": "https://www.fastify.io/",
       "description": "test-tool description wow",
       "tags": [
-        "test",
-        "tool",
-        "wow",
-        "such"
+        "api",
+        "json",
+        "schema",
+        "node",
+        "github",
+        "rest"
       ],
       "id": 6
+    },
+    {
+      "title": "test-tool3",
+      "link": "https://www.fastify.io/",
+      "description": "test-tool description wow",
+      "tags": [
+        "api",
+        "json",
+        "schema",
+        "node",
+        "github",
+        "rest"
+      ],
+      "id": 7
+    },
+    {
+      "title": "test-tool4",
+      "link": "https://www.fastify.io/",
+      "description": "test-tool description wow",
+      "tags": [
+        "api",
+        "json",
+        "schema",
+        "node",
+        "github",
+        "rest"
+      ],
+      "id": 8
     }
   ]
 }
